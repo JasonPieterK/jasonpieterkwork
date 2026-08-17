@@ -1,94 +1,36 @@
-# School - Public
+# Jason's School Work
 
-A shared repository for organizing and managing school work and academic materials.
+A personal repository for organizing school assignments, notes, projects, schedules, and other academic materials.
 
-## 📁 Repository Structure
+## Repository Structure
 
-```
-School - Public/
-├── jasonpieterkwork/          # Main school work directory
-│   ├── AGAMA/                 # Religious Education
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── BAHASA INDONESIA/      # Indonesian Language
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── ENGLISH/               # English Language
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── IPA/                   # Natural Sciences
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── IPS/                   # Social Sciences
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── MANDARIN/              # Mandarin Language
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── MATEMATIKA/            # Mathematics
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── P5/                    # Project 5 (Pancasila Education)
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── PHYSICAL EDUCATION/    # Physical Education & Sports
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── PPKN/                  # Civic Education
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── SBK/                   # Arts & Culture
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── TIK/                   # Information & Communication Technology
-│   │   ├── SEMESTER 1/
-│   │   └── SEMESTER 2/
-│   ├── Kelas_9.1_Schedule.xlsx  # Class schedule
-│   └── SCHOOL WORK.docx       # General school work document
-└── README.md                  # This file
-```
+School work is organized by subject and semester:
 
-## 📚 Subjects Overview
+- **AGAMA KRISTEN** — Religious Education
+- **BAHASA INDONESIA** — Indonesian language assignments
+- **ENGLISH** — English notes and assignments
+- **IPA** — Natural Sciences
+- **IPS** — Social Sciences
+- **MANDARIN** — Mandarin language work
+- **MATEMATIKA** — Mathematics work
+- **P5** — Project-based learning activities
+- **PHYSICAL EDUCATION** — Physical education and sports
+- **PPKN** — Civic Education
+- **SBK** — Arts and Culture
+- **TIK** — Information and Communication Technology
 
-### Core Subjects
-- **AGAMA** - Religious Education materials and assignments
-- **BAHASA INDONESIA** - Indonesian language studies
-- **ENGLISH** - English language learning materials
-- **MATEMATIKA** - Mathematics exercises and notes
-- **IPA** - Natural Sciences (Physics, Chemistry, Biology)
-- **IPS** - Social Sciences (History, Geography, Sociology)
+Most subject folders contain separate `SEMESTER 1` and `SEMESTER 2` folders. Empty folders are kept visible with `.gitkeep` placeholder files.
 
-### Additional Subjects
-- **MANDARIN** - Mandarin language studies
-- **PPKN** - Civic Education and Pancasila values
-- **P5** - Project-based learning activities
-- **SBK** - Arts and Culture (Seni Budaya dan Keterampilan)
-- **TIK** - Information and Communication Technology
-- **PHYSICAL EDUCATION** - Physical education and sports
+## Additional Files
 
-## 📝 Organization Guidelines
+- `Kelas_9.1_Schedule.xlsx` — Grade 9.1 class schedule
+- `SCHOOL WORK.docx` — General school work document
+- `SCHOOL WORK PRINT TEMPLATE.docx` — Printable school work template
 
-Each subject folder is organized by semester:
-- **SEMESTER 1** - First semester materials
-- **SEMESTER 2** - Second semester materials
+## Purpose
 
-### Recommended File Naming
-- Use descriptive names: `Chapter_3_Notes.pdf`, `Homework_Week_5.docx`
-- Include dates for time-sensitive materials: `Exam_2024-03-15.pdf`
-- Group related files together in subfolders when needed
+This repository helps keep school work organized, backed up, and accessible across devices. Files are grouped by subject and semester to make them easier to find.
 
-## 📅 Class Schedule
+## License
 
-The `Kelas_9.1_Schedule.xlsx` file contains the class schedule for Grade 9.1.
-
-## 🤝 Contributing
-
-This is a personal school repository, but the structure is designed to be:
-- Easy to navigate
-- Organized by subject and semester
-- Simple to sync across devices
-- Ready for collaboration if needed
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This repository is licensed under the MIT License. See [LICENSE](LICENSE) for the full license text.
